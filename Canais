@@ -1,124 +1,155 @@
 #EXTM3U
-#EXTINF:-1, Arte TV
+#EXTINF:-1, A&E
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, BH News Brasil
+#EXTINF:-1, ANIMAL PLANET
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Banda
+#EXTINF:-1, ARTE 1
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Esportes de banda 
+#EXTINF:-1, AMC
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, CN Brasil
+#EXTINF:-1, BAND
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, CN Brasil 
+#EXTINF:-1, BAND NEWS 
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, CN Brasil
+#EXTINF:-1, BAND SPORTS
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, CN Brasil
+#EXTINF:-1, CANAL BRASIL
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Food Network Brasil SD
+#EXTINF:-1, CNN BRASIL
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Food Network Brasil SD
+#EXTINF:-1, CANAL BIS
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Globo News Brasil
+#EXTINF:-1, CANAL COMBATE 
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Gloob
+#EXTINF:-1, CANAL OFF
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, K-Pop PlayTV (Brasil)
+#EXTINF:-1, GARTOONITO
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Multishow Brasil
+#EXTINF:-1, DISCOVERY CHANNEL
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, O Globo 1
+#EXTINF:-1, DISCOVERY H&H
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, O Globo 2
+#EXTINF:-1, DISCOVERY TURBO
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, O Globo 3
+#EXTINF:-1, DISCOVERY THEATER
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Record News Brasil
+#EXTINF:-1, DISCOVERY SCIENCE
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Record News HD 
+#EXTINF:-1, ESPN 
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Rede Mais Família 
+#EXTINF:-1, ESPN 2
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Rede Super! 
+#EXTINF:-1, ESPN 3
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Rede TV
+#EXTINF:-1, ESPN 4
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Rede TV
+#EXTINF:-1, ESPN 5
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Rede TV
+#EXTINF:-1, ESPN 6
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Rede TV
+#EXTINF:-1, FUTURA
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Rede TV
+#EXTINF:-1, FX
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Rede Vida
+#EXTINF:-1, GLOBO NEWS
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Rede Vida
+#EXTINF:-1,  GLOOB
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Retrô Cartoon 
+#EXTINF:-1, GNT
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Retrô Cartoon 
+#EXTINF:-1, HBO
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Retrô Cartoon 
+#EXTINF:-1, HBO 2
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Ação em tempo de execução! 
+#EXTINF:-1, HBO PLUS
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, SBT
+#EXTINF:-1, HBO MUNDI
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, SBT 2
+#EXTINF:-1, HBO FAMILY
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, SPACE BRASIL
+#EXTINF:-1, HBO SIGNATURE
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, SporTV 1
+#EXTINF:-1, HBO XTREME
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, SporTV 1
+#EXTINF:-1, LIFETIME
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, TBS Brasil
+#EXTINF:-1, PARAMOUNT
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, TNT Sports 4 Brasil
+#EXTINF:-1, PREMIERE 1
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, TV ABCD
+#EXTINF:-1, PREMIERE 2
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, TV Aparecida
+#EXTINF:-1, PREMIERE 3
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, TV Aparecida
+#EXTINF:-1, PREMIERE 4
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, TV Brasil
+#EXTINF:-1, PREMIERE 5
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, TV Brasil
+#EXTINF:-1, PREMIERE 6
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, TV Brasil
+#EXTINF:-1, PREMIERE 7
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, TV Brasil
+#EXTINF:-1, PREMIERE 8
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, TV Brasil
+#EXTINF:-1, REDE RECORD
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, TV Brasil
+#EXTINF:-1, REDE TV!
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, TV Cultura
+#EXTINF:-1, REDE VIDA 
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, TV GAZETA SÃO PAULO
+#EXTINF:-1, SBT HD
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, TV Nova Play
+#EXTINF:-1, SPACE
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, TVCI [Brasil]
+#EXTINF:-1, SONY 
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, TVU Esporte Brasil
+#EXTINF:-1, STAR
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Telecine Ação
+#EXTINF:-1, STUDIO UNIVERSAL
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Telecine Pipoca
+#EXTINF:-1, SPORTV 1
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Terra Viva
+#EXTINF:-1, SPORTV 2
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Tv Japi
+#EXTINF:-1, SPORTV 3
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Tv Japi
+#EXTINF:-1, TV CULTURA
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Tv Japi
+#EXTINF:-1, TV BRASIL
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Tv Japi
+#EXTINF:-1, TV APARECIDA
 http://super-cdn.link//index.m3u8
-#EXTINF:-1, Warner Channel
+#EXTINF:-1, TERRA VIVA
 http://super-cdn.link//index.m3u8
+#EXTINF:-1, TNT
+http://super-cdn.link//index.m3u8
+#EXTINF:-1, TELE CINE ACTION
+http://super-cdn.link//index.m3u8
+#EXTINF:-1, TELE CINE CULT
+http://super-cdn.link//index.m3u8
+#EXTINF:-1, TELE CINE FUN
+http://super-cdn.link//index.m3u8
+#EXTINF:-1, TELE CINE PIPOCA
+http://super-cdn.link//index.m3u8
+#EXTINF:-1, TELE CINE PREMIUM
+http://super-cdn.link//index.m3u8
+#EXTINF:-1, TELE CINE TOUCH
+http://super-cdn.link//index.m3u8
+#EXTINF:-1, TLC
+http://super-cdn.link//index.m3u8
+#EXTINF:-1, HISTORY
+http://super-cdn.link//index.m3u8
+#EXTINF:-1, MULTISHOW
+http://super-cdn.link//index.m3u8
+#EXTINF:-1, MAX
+http://super-cdn.link//index.m3u8
+#EXTINF:-1, NICK JR
+http://super-cdn.link//index.m3u8
+#EXTINF:-1, NICKELODEON
+http://super-cdn.link//index.m3u8
+#EXTINF:-1, UNIVERSAL
+http://super-cdn.link//index.m3u8
+#EXTINF:-1, WARNER CHANNEL
+http://super-cdn.link//index.m3u8
+
 
